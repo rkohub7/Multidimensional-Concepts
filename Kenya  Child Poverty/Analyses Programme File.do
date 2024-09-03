@@ -1,8 +1,8 @@
 **********************************************************************
 ***MEASURING CHILD POVERTY FROM 2022 KENYA DEMOGRAPHIC SURVEY****
 
-*****>>STEP 1: CHANGE DIRECTORY AND CALL IN DATA 
-cd "C:\MultidimensionalCompute"
+*****>>STEP 1: MAKE SURE YOUR FILES ARE IN ComputeMPI FOLDER IN DRIVE C
+cd "C:\ComputeMPI"
 dir
 use KDHS22_indicators.dta,clear
 
