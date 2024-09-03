@@ -1,5 +1,15 @@
 # Multidimensional-Concepts
 This repository describes the implementation of multidimensional measures using STATA
-TASK:  USING THE DIMENSIONS AND INDICATORS IN TABLE 1 TO COMPUTE MULTIDIMENSIONAL CHILD POVERTY FOR KENYA FROM 2022 KENYA DEMOGRAPHY  AND HEALTH SURVEY
+
+/*Take note of the following activities  for the hands-on*/
+
+Activity 1: Create a folder in your drive C  and name it  ComputeMPI
+
+Activity 2: 
+ Download ‘KDHS22_indicators.dta” , “Analyses Programme File.do”  and “Task at Hand.docx” from “Kenya Child Poverty” folder 
+
+Activity 3: Put the downloaded files in  the ComputeMPI folder
+![image](https://github.com/user-attachments/assets/33f23abe-c78c-47df-b8de-ec9cdbf96710)
+
 
 
